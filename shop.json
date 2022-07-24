@@ -1,0 +1,90 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "price": 2500,
+      "categoryId": 2,
+      "description": "Asus Zenbook",
+      "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bGFwdG9wfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 2,
+      "name": "Mouse",
+      "price": 25,
+      "categoryId": 2,
+      "description": "A4tech",
+      "imageUrl": "https://ui.assets-asda.com/dm/asdagroceries/T_5057172107995_T1?defaultImage=asdagroceries/noImage&resMode=sharp2&id=bt-SH2&fmt=jpg&dpr=off&fit=constrain,1&wid=256&hei=256"
+    },
+    {
+      "id": 3,
+      "name": "Cep Telefonu",
+      "price": 4000,
+      "categoryId": 3,
+      "description": "Xiaomi redmi 8 64gb",
+      "imageUrl": "https://zebramo-production.eu-central-1.linodeobjects.com/product_images/2022-12/01FZ1DG2KJQJC03SB29DR7TBMG_256x256.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Kulaklık",
+      "price": 2000,
+      "categoryId": 4,
+      "description": "Apple Airpods Pro",
+      "imageUrl": "data:image/jpeg;base64,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"
+    },
+    {
+      "name": "Klavye",
+      "description": "Logitech Klavye",
+      "imageUrl": "https://www7.webticari.com.tr/resim_upload/thumbnail/302706/tmb256_deiog_v_31_kablosuz_2_4_ghz_q_multimedia_klavye_mouse_set_1496.jpg",
+      "price": "200",
+      "categoryId": "2",
+      "id": 6
+    },
+    {
+      "name": "Çamaşır makinesi",
+      "description": "Bosch çamaşır makinesi",
+      "imageUrl": "https://img.letgo.com/images/ee/a3/96/34/eea39634289ffa3647d1bed4a496f821.jpeg?impolicy=img_256",
+      "price": "2000",
+      "categoryId": "1",
+      "id": 7
+    },
+    {
+      "name": "bisiklet",
+      "description": "globber ",
+      "imageUrl": "https://minycenter.akinoncdn.com/products/2022/03/23/192643/3c49e565-142e-49f8-8015-b6e657d8fe7d_size256x320.jpg",
+      "price": "500",
+      "categoryId": "5",
+      "id": 8
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Elektronik"
+    },
+    {
+      "id": 2,
+      "name": "Bilgisayar"
+    },
+    {
+      "id": 3,
+      "name": "İletisim"
+    },
+    {
+      "id": 4,
+      "name": "Muzik"
+    },
+    {
+      "id": 5,
+      "name": "Hobi"
+    },
+    {
+      "id": 6,
+      "name": "Mutfak"
+    },
+    {
+      "id": 7,
+      "name": "Eğitim"
+    }
+  ]
+}
